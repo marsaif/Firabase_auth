@@ -3,4 +3,9 @@
     <string name="sign_in">Sign In</string>
     <string name="email_hint">Enter Your Email</string>
     <string name="password_hint">Enter Your Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="new_here">New here ?</string>
+    <string name="already_registered">Already Registered ?</string>
+
+
 </resources>

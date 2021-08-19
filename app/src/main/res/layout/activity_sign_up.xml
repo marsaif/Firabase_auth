@@ -15,10 +15,10 @@
         android:layout_marginTop="@dimen/margin_large">
 
         <ImageView
-            android:id="@+id/logoSignIn"
+            android:id="@+id/logoSignUp"
             android:layout_width="@dimen/logo_width"
             android:layout_height="@dimen/logo_height"
-            android:src="@drawable/sign_in_logo">
+            android:src="@drawable/sign_up_logo">
         </ImageView>
 
     </LinearLayout>
@@ -64,15 +64,15 @@
         android:gravity="center_horizontal"
         android:layout_marginTop="@dimen/margin_xsmall"
         >
-    <com.google.android.material.button.MaterialButton
-        android:id="@+id/button_sign_in"
-        android:layout_width="@dimen/button_width"
-        app:cornerRadius="8dp"
-        android:layout_height="wrap_content"
-        android:text="@string/sign_in"
-        android:backgroundTint="@color/blue"
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/button_sign_up"
+            android:layout_width="@dimen/button_width"
+            app:cornerRadius="8dp"
+            android:layout_height="wrap_content"
+            android:text="@string/sign_up"
+            android:backgroundTint="@color/blue"
 
-        />
+            />
     </LinearLayout>
 
     <LinearLayout
@@ -81,23 +81,23 @@
         android:gravity="center_horizontal"
         android:layout_marginTop="@dimen/margin_xxsmall">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/new_here"
-        android:textStyle="bold"
-        android:textSize="@dimen/text_size"
-        />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/already_registered"
+            android:textStyle="bold"
+            android:textSize="@dimen/text_size"
+            />
 
-    <TextView
+        <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginHorizontal="@dimen/margin_xxxsmall"
-            android:text="@string/sign_up"
+            android:text="@string/sign_in"
             android:textColor="@color/teal_700"
             android:textStyle="bold"
             android:textSize="@dimen/text_size"
-        />
+            />
 
     </LinearLayout>
 
