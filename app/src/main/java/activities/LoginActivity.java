@@ -10,6 +10,7 @@ import android.util.Patterns;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.firabase_auth.R;
@@ -22,6 +23,7 @@ import com.google.firebase.auth.FirebaseAuthInvalidUserException;
 
 public class LoginActivity extends AppCompatActivity implements View.OnClickListener {
 
+    private TextView textViewSignUp ;
     private FirebaseAuth mAuth ;
     private EditText editTextEmail , editTextPassword ;
     private String email , password ;
@@ -37,8 +39,10 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         editTextEmail = findViewById(R.id.editText_email) ;
         editTextPassword = findViewById(R.id.editText_password) ;
         btnLogin = findViewById(R.id.button_sign_in) ;
+        textViewSignUp = findViewById(R.id.text_view_sign_up) ;
 
         btnLogin.setOnClickListener(this);
+        textViewSignUp.setOnClickListener(this);
 
     }
 
@@ -116,6 +120,12 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
                 if (checkFields()) {
                     signIn();
                 }
+                break;
+
+            case R.id.text_view_sign_up:
+                Intent intent = new Intent(this,SignUpActivity.class);
+                startActivity(intent);
+                break;
         }
     }
 }
