@@ -6,4 +6,6 @@
     <string name="sign_up">Sign Up</string>
     <string name="new_here">New here ?</string>
     <string name="already_registered">Already Registered ?</string>
+    <string name="facebook_app_id">373902704398101</string>
+    <string name="fb_login_protocol_scheme">fb373902704398101</string>
 </resources>
