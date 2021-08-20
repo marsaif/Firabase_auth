@@ -55,3 +55,16 @@
 </ul>
 
 <br>
+
+<b> when you try to sign in with google then with facebook with the same email you'll get FirebaseAuthUserCollisionException to fix this erreur <b> 
+  
+  
+<kbd>    
+<img src="https://user-images.githubusercontent.com/62887129/130218543-0e6f70e8-b619-4fda-a697-c3f68875e7a8.png">
+</kbd> 
+<br> <br>    
+<kbd>    
+<img src="https://user-images.githubusercontent.com/62887129/130218550-dd52d48e-3a3a-424d-b661-0433a88bed4a.png">
+</kbd> 
+  
+  
