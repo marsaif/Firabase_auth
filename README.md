@@ -8,14 +8,23 @@
 <br><br>
   
 <kbd>  
-<img width="250" height="450" src="https://user-images.githubusercontent.com/62887129/130087423-3ce47efb-42b6-4ad5-86f3-e371dcd684e5.png">
+<img width="350" height="550" src="https://user-images.githubusercontent.com/62887129/130216569-467629f7-5cad-4236-a610-54f35c4f71c3.jpg">
 </kbd>
 &nbsp; &nbsp; &nbsp; &nbsp;
 <kbd>    
-<img width="250" height="450" src="https://user-images.githubusercontent.com/62887129/130087418-7c2cf39f-7d17-4315-b4a3-e5dfc36b5249.png">
+<img width="350" height="550" src="https://user-images.githubusercontent.com/62887129/130216573-1d57e9b5-7fe8-448c-8269-0d88371310e2.jpg">
 </kbd>
 
-</div>  
+<br> <br>  
+  
+<kbd>    
+<img width="350" height="550" src="https://user-images.githubusercontent.com/62887129/130216577-72fd4165-da3b-4cda-a140-fd2541b95daa.jpg">
+</kbd>
+&nbsp; &nbsp; &nbsp; &nbsp;
+<kbd>    
+<img width="350" height="550" src="https://user-images.githubusercontent.com/62887129/130217633-481e0570-cea3-4a93-aa5c-af38c08c1e5b.jpg">
+</kbd>
+</div> 
 
 <br> <br>
   
