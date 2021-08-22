@@ -1,28 +1,23 @@
 # Firabase_auth
 
 
-<div align="center">
   
-<img width="400" height="200" src="https://user-images.githubusercontent.com/62887129/130086341-746ae7d8-67f3-4b6c-91ef-3779d1494a4e.png">
-  
-<br><br>
+## Screenshots
   
 <kbd>  
-<img width="350" height="550" src="https://user-images.githubusercontent.com/62887129/130216569-467629f7-5cad-4236-a610-54f35c4f71c3.jpg">
+<img width="200" src="https://user-images.githubusercontent.com/62887129/130364530-25106426-90d7-46e7-afd4-9dffb55e7bff.jpg">
 </kbd>
 &nbsp; &nbsp; &nbsp; &nbsp;
 <kbd>    
-<img width="350" height="550" src="https://user-images.githubusercontent.com/62887129/130216573-1d57e9b5-7fe8-448c-8269-0d88371310e2.jpg">
+<img width="200" src="https://user-images.githubusercontent.com/62887129/130364533-6b21dbaf-c910-4ff6-9112-06628e142232.jpg">
 </kbd>
-
-<br> <br>  
   
 <kbd>    
-<img width="350" height="550" src="https://user-images.githubusercontent.com/62887129/130216577-72fd4165-da3b-4cda-a140-fd2541b95daa.jpg">
+<img width="200" src="https://user-images.githubusercontent.com/62887129/130364531-1019f4e8-1f88-4b95-959f-ccb26b02c644.jpg">
 </kbd>
 &nbsp; &nbsp; &nbsp; &nbsp;
 <kbd>    
-<img width="350" height="550" src="https://user-images.githubusercontent.com/62887129/130217633-481e0570-cea3-4a93-aa5c-af38c08c1e5b.jpg">
+<img width="200" src="https://user-images.githubusercontent.com/62887129/130364535-3a11ae00-51a3-4a36-a98c-cef60ba3c534.jpg">
 </kbd>
 </div> 
 
